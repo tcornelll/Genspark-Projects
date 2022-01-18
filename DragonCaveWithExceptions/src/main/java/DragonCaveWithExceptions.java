@@ -19,20 +19,22 @@ public class DragonCaveWithExceptions {
     }
 
     public static void handleEaten() {
-        System.out.print("You approach the cave...\n" +
-                "It is dark and spooky...\n" +
-                "A large dragon jumps out in front of you! He opens his jaws and...\n" +
-                "Gobbles you down in one bite!");
+        System.out.print("""
+                You approach the cave...
+                It is dark and spooky...
+                A large dragon jumps out in front of you! He opens his jaws and...
+                Gobbles you down in one bite!""");
     }
 
     public static void handleShared() {
-        System.out.print("You approach the cave...\n" +
-                "It is dark and spooky...\n" +
-                "A large dragon jumps out in front of you! He opens his jaws and...\n" +
-                "Tells you that he is feeling generous...\n" +
-                "And will share his gold with you today!\n" +
-                "He gives you some of his gold\n" +
-                "And you continue on your journey\n");
+        System.out.print("""
+                You approach the cave...
+                It is dark and spooky...
+                A large dragon jumps out in front of you! He opens his jaws and...
+                Tells you that he is feeling generous...
+                And will share his gold with you today!
+                He gives you some of his gold
+                And you continue on your journey""");
         correctChoice = rand.nextInt(2) + 1;
     }
 
