@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DragonCaveWithExceptions/DragonCave.iml" filepath="$PROJECT_DIR$/DragonCaveWithExceptions/DragonCave.iml" />
       <module fileurl="file://$PROJECT_DIR$/DragonCaveWithExceptions/DragonCaveWithExceptions.iml" filepath="$PROJECT_DIR$/DragonCaveWithExceptions/DragonCaveWithExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/GuessTheNumberWithExceptions/GuessTheNumberWithExceptions.iml" filepath="$PROJECT_DIR$/GuessTheNumberWithExceptions/GuessTheNumberWithExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HangmanFunctional/HangmanFunctional.iml" filepath="$PROJECT_DIR$/HangmanFunctional/HangmanFunctional.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gensparkProjects.iml" filepath="$PROJECT_DIR$/.idea/gensparkProjects.iml" />
     </modules>
   </component>

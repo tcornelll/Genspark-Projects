@@ -7,16 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HangmanFunctional" />
-        <module name="DragonCaveWithExceptions" />
-        <module name="GuessTheNumberWithExceptions" />
-        <module name="DragonCave" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DragonCave" target="17" />
-      <module name="DragonCaveWithExceptions" target="17" />
-      <module name="GuessTheNumberWithExceptions" target="17" />
-      <module name="HangmanFunctional" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
